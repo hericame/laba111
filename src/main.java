@@ -7,7 +7,6 @@ public class main {
         list.add(456);
 
         list.printList();
-        list.printList();
 
         int res = list.pop();
         System.out.println();
