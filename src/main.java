@@ -1,8 +1,6 @@
-import java.util.Arrays;
-
 public class main {
     public static void main(String[] args) {
-        List<Integer> list = new List();
+        List<Integer> list = new List<>();
         list.add(123);
         list.add(456);
 
